@@ -1,0 +1,46 @@
+
+.container.support {
+  background-color: #f9f9f9;
+  padding: 60px 0;
+}
+
+.support h2 {
+  color: #333;
+  font-size: 36px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.support p {
+  color: #555;
+  font-size: 18px;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+.support ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.support li {
+  margin-bottom: 15px;
+}
+
+.support li strong {
+  color: #5c0404;
+  font-weight: bold;
+}
+
+.support .contact-options {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.support .contact-option {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+
